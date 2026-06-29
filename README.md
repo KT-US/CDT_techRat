@@ -134,6 +134,26 @@ Upload supports:
 
 <div align="center">
 
+
+---
+
+# 📩 Request Client Build
+
+If you want access to the **client executable (.exe)** for testing, educational demonstration, or authorized environments, please contact:
+
+📧 **[cyberdigitaltree@gmail.com](mailto:cyberdigitaltree@gmail.com)**
+
+When sending your request, include:
+
+* Purpose of use
+* Testing environment
+* Intended educational or research goal
+
+Requests may be reviewed before sharing.
+
+---
+
+
 ## 🎥 Video Tutorials
 
 Learn how to use **CDT_techRat** through practical demonstrations and walkthrough videos.
